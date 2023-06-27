@@ -28,7 +28,7 @@
 
 ---
 
-### :woman_technologist: About Me:
+### :man_technologist: About Me:
 I am a student based in Belarus, pursuing my education in computer science with a focus on backend development :computer:.
 
 :telescope: Currently, I am dedicated to expanding my knowledge and skills as a software engineer, exploring both frontend and backend development to build web applications.
