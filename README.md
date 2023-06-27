@@ -29,16 +29,13 @@
 ---
 
 ### :woman_technologist: About Me:
-I am a Backend Developer :computer: from Belarus.
+I am a student based in Belarus, pursuing my education in computer science with a focus on backend development :computer:.
 
-:telescope: Currently working as a Software Engineer, contributing to both frontend and backend development for building web applications.
+:telescope: Currently, I am dedicated to expanding my knowledge and skills as a software engineer, exploring both frontend and backend development to build web applications.
 
-:seedling: Passionate about Technical Content Writing.
+:seedling: I have a keen interest in technical content writing, where I can share my insights and contribute to the tech community.
 
-:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-:mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BA%D0%BE%D1%80%D1%88%D1%83%D0%BD-155429170/)
-
+:zap: In my free time, I enjoy solving coding challenges on platforms like GeeksforGeeks and staying up to date with the latest tech articles.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
