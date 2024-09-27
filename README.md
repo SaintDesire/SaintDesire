@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About Me:
-I am a student based in Belarus, pursuing my education in computer science with a focus on backend development :computer:.
+I am a student based in Belarus, pursuing my education in computer science with a focus on frontend development :computer:.
 
 :telescope: Currently, I am dedicated to expanding my knowledge and skills as a software engineer, exploring both frontend and backend development to build web applications.
 
@@ -40,20 +40,20 @@ I am a student based in Belarus, pursuing my education in computer science with 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/512/c-programming.png"  title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183670.png"  title="XML" alt="XML" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;  
 <img src="https://img.icons8.com/color/512/vue-js.png" title="VUE JS" alt="VUE JS" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp; 
+<img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/c-programming.png"  title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183670.png"  title="XML" alt="XML" width="40" height="40"/>&nbsp;
 </div>
 
 ---
